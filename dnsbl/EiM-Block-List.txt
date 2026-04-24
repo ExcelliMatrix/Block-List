@@ -20,9 +20,13 @@
 # ---------------------------------------------------------------------------
 
 tiktok.com
+www.tiktok.com
 snapchat.com
+www.snapchat.com
 discord.com
+www.discord.com
 twitch.tv
+www.twitch.tv
 
 # ---------------------------------------------------------------------------
 # Gaming platforms and services
