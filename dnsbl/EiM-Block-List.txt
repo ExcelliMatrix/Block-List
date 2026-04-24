@@ -1,0 +1,68 @@
+# EiM-Block-List.txt
+# Maintained by ExcelliMatrix
+#
+# Purpose:
+#   Starter DNS block list for pfBlockerNG.
+#   Intended for business/client environments.
+#
+# Format:
+#   One domain per line.
+#   Lines beginning with # are comments.
+#
+# Notes:
+#   - Adult-content domains are intentionally excluded.
+#   - Review before enabling globally.
+#   - Some entries may be appropriate for certain clients and inappropriate for others.
+#   - Add exceptions per client if there is a business need.
+
+# ---------------------------------------------------------------------------
+# Social / entertainment platforms commonly unnecessary on business networks
+# ---------------------------------------------------------------------------
+
+tiktok.com
+snapchat.com
+discord.com
+twitch.tv
+
+# ---------------------------------------------------------------------------
+# Gaming platforms and services
+# ---------------------------------------------------------------------------
+
+roblox.com
+minecraft.net
+epicgames.com
+steampowered.com
+steamcommunity.com
+
+# ---------------------------------------------------------------------------
+# Gambling / sports betting
+# ---------------------------------------------------------------------------
+
+draftkings.com
+fanduel.com
+bet365.com
+stake.com
+
+# ---------------------------------------------------------------------------
+# Torrent / piracy-related destinations
+# ---------------------------------------------------------------------------
+
+thepiratebay.org
+utorrent.com
+bittorrent.com
+
+# ---------------------------------------------------------------------------
+# Crypto mining / crypto utility sites often unnecessary in business networks
+# ---------------------------------------------------------------------------
+
+nicehash.com
+minergate.com
+
+# ---------------------------------------------------------------------------
+# Tunneling / anonymization / paste services commonly abused in attacks
+# ---------------------------------------------------------------------------
+
+torproject.org
+ngrok.io
+pastebin.com
+
