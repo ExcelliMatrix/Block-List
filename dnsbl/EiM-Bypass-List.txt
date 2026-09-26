@@ -14,5 +14,3 @@
 # Social / entertainment platforms commonly unnecessary on business networks
 # ---------------------------------------------------------------------------
 
-discord.com
-www.discord.com
