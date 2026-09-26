@@ -1,0 +1,18 @@
+# EiM-Bypass-List.txt
+# Maintained by ExcelliMatrix
+#
+# Purpose:
+#   Starter DNS bypass list for pfBlockerNG.
+#   Intended for business/client environments.
+#
+# Format:
+#   One domain per line.
+#   Lines beginning with # are comments.
+#
+
+# ---------------------------------------------------------------------------
+# Social / entertainment platforms commonly unnecessary on business networks
+# ---------------------------------------------------------------------------
+
+discord.com
+www.discord.com
